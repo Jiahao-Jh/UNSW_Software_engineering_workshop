@@ -34,6 +34,8 @@ The website is currently disabled, the following images are kept as demonstratio
 ## project functionality
 
 ![Alt text](/images/project_diagram.jpg)
+
+## project website demo
 ![Alt text](/images/HomePage.jpg)
 ![Alt text](/images/articlePage.jpg)
 ![Alt text](/images/1.jpg)
