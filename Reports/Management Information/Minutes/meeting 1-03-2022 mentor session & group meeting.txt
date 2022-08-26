@@ -1,0 +1,30 @@
+Group: groupName
+Date: 1/03/2022
+Type: mentor session & group meeting
+
+Participants:
+	Jiahao Zhang
+	Shuhao Hu
+	Haochen Shi
+	Kexin Tian
+	Dongfei Fan
+
+Start Time:
+	2:00PM (Sydney time)
+
+End Time:
+	2:50PM (Sydney time)
+
+Content:
+	In mentor session(2:00PM - 2:28PM), everyone asked questions about their part. 
+	The mentor go through the draft of our work and give us some feedback and 
+	suggestions.
+	In the group meeting(2:29PM - 2:50PM), everyone discussed problems had in 
+	their part and figure out solutions. In the end, everyone keep working on their 
+	part and ready to have final draft on Thursday and then finalize in the meeting 
+	on Thursday(3/03/2022).
+
+ 
+Planed next meeting:
+
+3/03/2022 (Afternoon)

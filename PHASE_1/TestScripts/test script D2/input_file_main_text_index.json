@@ -1,0 +1,37 @@
+{
+    "main_text":
+        {
+            "Ebola": 
+                "Ebola Virus Disease (EVD) is a rare and deadly disease in people and nonhuman primates. The viruses that cause EVD are located mainly in sub-Saharan Africa. People can get EVD through direct contact with an infected animal (bat or nonhuman primate) or a sick or dead person infected with Ebola virus.",          
+            
+            "Salmonella_Infection": 
+                "Salmonella is a group of bacteria that can live in the intestinal tract of many different animals. Salmonellosis (sal-mohn-el-OH-sis) is a bacterial disease caused by Salmonella.",            
+            
+            "Salmonella_homepage":
+                "CDC estimates Salmonella bacteria cause about 1.35 million infections, 26,500 hospitalizations, and 420 deaths in the United States every year. Food is the source for most of these illnesses.",
+        
+            "Typhoid_Fever":
+                "Typhoid fever and paratyphoid fever are life-threatening illnesses caused by Salmonella serotype Typhi and Salmonella serotype Paratyphi, respectively.",
+            
+            "Vaccine_Measles":
+                "Prevent measles and talk to your healthcare provider about the measles, mumps, and rubella (MMR) vaccine, especially if planning to travel.",
+            
+            "Safety_Measles":
+                ", rash, cough, runny nose, and red, watery eyes. Complications can include ear infection, diarrhea, pneumonia, brain damage, and death.",
+            
+            "Hantavirus_part_1":
+                "Hantaviruses are a family of viruses spread mainly by rodents and can cause varied disease syndromes in people worldwide.",
+
+            "Hantavirus_part_2":
+                " Infection with any hantavirus can produce hantavirus disease in people. Hantaviruses in the Americas are known as ",
+
+            "Hantavirus_part_3":
+                " hantaviruses and may cause hantavirus pulmonary syndrome (HPS). Other hantaviruses, known as ",
+
+            "Hantavirus_part_4":
+                " hantaviruses, are found mostly in Europe and Asia and may cause hemorrhagic fever with renal syndrome (HFRS)."
+            
+        }           
+        
+        
+}

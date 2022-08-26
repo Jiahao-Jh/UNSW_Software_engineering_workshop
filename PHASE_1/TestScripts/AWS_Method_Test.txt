@@ -1,0 +1,25 @@
+covid:
+    200:
+        country=US&date=02-02-2020
+        country=Mainland_China&date=02-02-2020
+        state=New_South_Wales&country=Australia&date=02-02-2020
+    400:
+        &country=US&date=2020-02-02
+    204:
+        state=Chicago,_IL&country=US&date=02-02-2018
+
+
+articles:
+    200:
+        location=New_York&key_term=measles&period_of_interest=15-10-01T08:45:10&period_of_interest=22-11-01T19:37:12&limit=0
+    400:
+        location=Beni&key_term=ebola&period_of_interest=qqq&period_of_interest=qqq
+
+
+index:
+    200:
+        location=Beni&key_term=ebola&period_of_interest=00-03-17T20:33:40&period_of_interest=22-04-18T21:23:52
+        location=Bareilly&key_term=salmonella&period_of_interest=20-03-17T20:33:40&period_of_interest=20-04-18T21:23:52
+        location=Florida&key_term=measles&period_of_interest=00-03-17T20:33:40&period_of_interest=22-04-18T21:23:52
+    400:
+        location=Beni&key_term=ebola&period_of_interest=qqq&period_of_interest=qqq

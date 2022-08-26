@@ -1,0 +1,69 @@
+Group: groupName
+Date: 24/03/2022
+Type: mentor session & group meeting
+
+Participants:
+
+	Jiahao Zhang 
+	Shuhao Hu 
+	Haochen Shi 
+	Dongfei Fan
+
+Start Time:
+
+	4:00PM (Sydney time)
+
+End Time:
+
+	5:10PM (Sydney time)
+
+Content:
+
+In mentor session, everyone aksed about questions about D3 and the mentor went through the spec and then gave us some advice and suggestions on:
+
+	How to build this web application(use webCMS as an example which is functional and easy to use), 
+
+	Use what kind of api to build(one from ours or other teams; may use other api from internet as well), 
+
+	Talked about what kind of feature could we have in the web application(topic about travel, then have 
+	features such as search outbreaks in destination, search hotels and flats); 
+
+	Gave some feedback on the scraper of the location and disease searching, 
+
+	Use what kind framework to build the frontend(html and css, bootstrap), 
+
+	User story is optional(but good to see it on ppt), 
+
+	Talk about the time split in presentation(half to half in 'Business Idea and Requirements Addressed' 
+	and 'Technical Point of View', and leave time for demo).
+
+In group disscusion, the basic idea is each person do one feature of this web application. Then we brainstorm for some features:
+
+	Search loaction for outbreaks
+
+	If we do the topic travel, then search outbreak in past few days
+
+	Search outbreaks and show it in the global map(optional)
+
+	Predict trends of outbreak
+
+	Some thoughts about medical stock
+
+	Search reports
+
+Found one api could be used:  https://www.disease.sh/
+
+
+Current thinking on topic: 
+	
+	about travelling, check destination in this website could get information about outbreak occurred in that place.
+
+Target before next meeting:
+
+	Find more api, 
+
+	Find more ideas about topic
+
+Planed next meeting:
+
+this Saturday or Sunday

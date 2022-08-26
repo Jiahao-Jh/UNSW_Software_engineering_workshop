@@ -1,0 +1,42 @@
+Group: groupName
+Date: 8/03/2022
+Type: mentor session & group meeting
+
+Participants:
+
+@jiahao zhang Jiahao Zhang
+@Shuhao Hu Shuhao Hu
+@Haochen Shi Haochen Shi
+@Kexin Tian Kexin Tian
+@Dongfei Fan Dongfei Fan
+
+Start Time:
+
+2:00PM (Sydney time)
+
+End Time:
+
+2:58PM (Sydney time)
+
+Content:
+
+In mentor session(2:00PM - 2:20PM), the mentor talked about the details in deliverable 2 and everyone asked questions about spec. The mentor said Part I is important, which is also recommended to be finished first. 
+
+In the group meeting(2:20PM - 2:58PM), the group discussed the content of D2. The team would like to use lambda function in Amazon API gateway for server hosting, Amazon RDS for database. 
+
+Then the team split the workload in D2:
+
+API documentation & endpoint: Kexin Tian
+
+scraper, above and beyond: Haochen Shi, Shuhao Hu
+
+Swagger, API, log file: Jiahao Zhang
+
+API Testing: Jiahao Zhang, Dongfei Fan
+
+
+ 
+
+Planed next meeting:
+
+11/03/2022 or 12/03/2022

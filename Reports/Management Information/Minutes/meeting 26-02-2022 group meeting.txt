@@ -1,0 +1,25 @@
+Group: groupName
+Date: 26/02/2022
+Type: Group meeting
+
+Participants:
+	Jiahao Zhang
+	Shuhao Hu
+	Haochen Shi
+	Dongfei Fan
+
+Start Time:
+	2:00PM (Sydney time)
+End Time:
+	2:36PM (Sydney time)
+Content:
+	Everyone talked about what they did in past few days and show the primary work of
+	what are they responsible for, and the work could be found in the Wechat or in 
+	Confluence.
+	We decide to keep on work and will have another group meeting after the mentor 
+	session in week3.
+	
+	
+	
+Planed next meeting:
+	1/03/2022 (After Mentor Session)

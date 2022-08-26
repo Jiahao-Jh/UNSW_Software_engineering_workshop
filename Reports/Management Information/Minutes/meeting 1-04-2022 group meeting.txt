@@ -1,0 +1,39 @@
+Group: groupName
+Date: 1/04/2022
+Type: group meeting
+
+Participants:
+
+ 	Jiahao Zhang
+ 	Shuhao Hu
+ 	Haochen Shi
+	Kexin Tian
+ 	Dongfei Fan
+
+Start Time:
+
+	5:30PM (Sydney time)
+
+End Time:
+
+	6:33PM (Sydney time)
+
+Content:
+
+	everyone talk what they did and plan what to do next:
+
+		Jiahao Zhang: map for government response for outbreak
+
+		Shuhao Hu: map for covid-19 comfirmed, death, and recovered
+
+		Haochen Shi: page about travel
+
+		Dongfei Fan: page about outbreak article searching
+
+ 		Kexin Tian: ppt and prototype
+
+
+
+Planed next meeting:
+
+	1/04/2022

@@ -1,0 +1,29 @@
+/* todo: delete file if not needed */
+
+
+.bottom-bar {
+    background-color: dimgray;
+    color: white;
+}
+
+a::before {
+    content: '';
+    display: block;
+}
+
+.brand {
+    float: left;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+.about-bar {
+    margin-left: 500px;
+    padding-top: 50px; 
+    padding-bottom: 25px;
+}
+
+.about-bar a {
+    padding-top: 10px;
+    color: white;
+}

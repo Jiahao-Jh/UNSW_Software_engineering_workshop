@@ -1,0 +1,31 @@
+Group: groupName
+Date: 24/04/2022
+Type: group meeting
+
+Participants:
+
+ 	Jiahao Zhang
+ 	Shuhao Hu
+ 	Haochen Shi
+ 	Kexin Tian
+ 	Dongfei Fan
+
+Start Time:
+
+	9:02PM (Sydney time)
+
+End Time:
+
+	10:26PM (Sydney time)
+
+Content:
+
+	Group discussion about the final report. Find more ideas on the 'others' part.
+
+	Say Good Bye to each other
+
+ 
+
+Planed next meeting:
+
+	not decide yet (probably no more)

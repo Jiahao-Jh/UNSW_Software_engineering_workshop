@@ -1,0 +1,32 @@
+{
+    "team_name": "SENG3011_GroupName",
+    "access_time": "17/03/2022 22:55:13",
+    "url": "https://www.cdc.gov/hepatitis/outbreaks/2017March-HepatitisA.htm",
+    "date_of_publication": "Announced March 2017",
+    "header": "Widespread person-to-person outbreaks of hepatitis A across the United States",
+    "main_text": "When hearing about hepatitis A, many people think about contaminated food and water. However, in the United States, hepatitis A is more commonly spread from person to person. Since March 2017, CDC\u2019s Division of Viral Hepatitis (DVH) has been assisting multiple state and local health departments with hepatitis A outbreaks, spread through person-to-person contact.\nThe hepatitis A vaccine is the best way to prevent hepatitis A virus (HAV) infection \n\nThe following groups are at highest risk for acquiring HAV infection or developing serious complications from HAV infection in these outbreaks and should be offered the hepatitis A vaccine in order to prevent or control an outbreak:\n\nPeople who use drugs (injection or non-injection)\nPeople experiencing unstable housing or homelessness \nMen who have sex with men (MSM)\nPeople who are currently or were recently incarcerated \nPeople with chronic liver disease, including cirrhosis, hepatitis B, or hepatitis C\n\n\nOne dose of single-antigen hepatitis A vaccine has been shown to control outbreaks of hepatitis A.1,2\nPre-vaccination serologic testing is not required to administer hepatitis A vaccine.\u00a0Vaccinations should not be postponed if vaccination history cannot be obtained or records are unavailable.\n\nCDC has provided outbreak-specific considerations for hepatitis A vaccine administration\u00a0and has updated its overall recommendations on the prevention of hepatitis A virus infection in the United States.\n\nCDC\u2019s Response\nIn response to all hepatitis outbreaks, CDC provides ongoing epidemiology and laboratory support as well as support on vaccine supply and vaccine policy development. When requested, CDC sends \u201cdisease detectives\u201d to affected areas to evaluate and assist in an outbreak response. CDC alerts other public health jurisdictions of any increases in disease. All jurisdictions are encouraged to be watchful for increases in hepatitis A cases. CDC also works with state and local health officials to ensure hepatitis A vaccine is targeted to the correct at-risk populations and that supply is adequate.\n\nEducational ResourcesCDC is developing educational materials to support the outbreak at the state and local levels. Most materials include an area where local information can be inserted. Your organization\u2019s contact information can be typed into the blue colored rectangle. To upload your logo, click on the white space below the blue colored rectangle. In the pop-up box, select browse and upload a PDF version of your logo.\n\n",
+    "reports": [
+        {
+            "event_date": "2016",
+            "locations": [
+                {
+                    "country": "Have not been implantment",
+                    "location": "America"
+                }
+            ],
+            "diseases": [
+                {
+                    "name": "Viral Hepatitis"
+                }
+            ],
+            "syndromes": [
+                {
+                    "name": "infection"
+                }
+            ],
+            "cases": 43906,
+            "deaths": 419,
+            "hospitalizations": 26798
+        }
+    ]
+}

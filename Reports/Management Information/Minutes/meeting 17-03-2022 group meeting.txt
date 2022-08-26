@@ -1,0 +1,30 @@
+Group: groupName
+Date: 17/03/2022
+Type: group meeting
+
+Participants:
+
+	Jiahao Zhang
+	Shuhao Hu
+	Haochen Shi
+	Kexin Tian
+	Dongfei Fan
+
+Start Time:
+
+	4:50PM (Sydney time)
+
+End Time:
+
+	5:54PM (Sydney time)
+
+Content:
+
+	Everyone talked about what they did in past few days and then had work 
+	together on API in the meeting. After the group work, we decide the next 
+	step of work and then we will continue to work and finish the D2 before deadline.
+
+
+Planed next meeting:
+
+not decide yet

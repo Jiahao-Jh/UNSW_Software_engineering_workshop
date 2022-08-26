@@ -1,0 +1,32 @@
+{
+    "team_name": "SENG3011_GroupName",
+    "access_time": "17/03/2022 22:55:13",
+    "url": "https://www.cdc.gov/brucellosis/exposure/unpasteurized-dairy-products.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fbrucellosis%2Fexposure%2Fdrug-resistant-brucellosis-linked-raw-milk.html",
+    "date_of_publication": "Announced February 2019",
+    "header": "Risks from Unpasteurized Dairy Products",
+    "main_text": "Raw milk and milk products are those that have not undergone a process called pasteurization that kills disease-causing germs. These types of products are common outside the United States and are increasingly being sold in mainstream supermarkets in the United States as well.\nConsumption of raw milk containing Brucella can cause brucellosis. Most cases of brucellosis associated with raw milk are caused by a strain called Brucella melitensis or Brucella abortus in people who traveled to countries where these strains are\u00a0 common and drank contaminated cow, sheep or goat milk. In rare cases, brucellosis cases associated with other strains, including RB51 and Brucella suis, are reported.\nRB51 is resistant to certain antibiotics that would normally be used to prevent or treat Brucella infections. CDC recommends that anyone exposed to RB51 receive antibiotics to prevent an infection.\nTreatment recommendations: Exposure to RB51 through Raw Milk or Milk Products: How to Reduce Risk of Infection.\nRelated Links\nRaw Milk Questions and Answers\nTravelers\u2019 Health \u2013 Brucellosis\n\n",
+    "reports": [
+        {
+            "event_date": "February 2019",
+            "locations": [
+                {
+                    "country": "Have not been implantment",
+                    "location": "did not find any"
+                }
+            ],
+            "diseases": [
+                {
+                    "name": "Brucellosis"
+                }
+            ],
+            "syndromes": [
+                {
+                    "name": "infection"
+                }
+            ],
+            "cases": 0,
+            "deaths": 0,
+            "hospitalizations": 0
+        }
+    ]
+}

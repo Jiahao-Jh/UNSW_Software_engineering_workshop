@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BetterDesk-Landing-Page" transform="translate(-232.000000, -27.000000)">
+            <g id="Header">
+                <g id="Nav">
+                    <g id="Links" transform="translate(232.000000, 27.000000)">
+                        <g id="Group-8">
+                            <rect id="Rectangle-5" fill="#3DBDB6" x="0" y="0" width="24" height="24" rx="9"></rect>
+                            <path d="M8.30232558,7.24643045 C8.9958907,7.24643045 9.55813954,7.81255364 9.55813954,8.51089327 C9.55813954,9.209235 8.9958907,9.77535608 8.30232558,9.77535608 C7.60873954,9.77535608 7.04651163,9.209235 7.04651163,8.51089327 C7.04651163,7.81255364 7.60873954,7.24643045 8.30232558,7.24643045 Z M15.4186047,7.24643045 C16.1121907,7.24643045 16.6744186,7.81255364 16.6744186,8.51089327 C16.6744186,9.209235 16.1121907,9.77535608 15.4186047,9.77535608 C14.7250395,9.77535608 14.1627907,9.209235 14.1627907,8.51089327 C14.1627907,7.81255364 14.7250395,7.24643045 15.4186047,7.24643045 Z M6,13.3580049 L17.7209302,13.3580049 C16.8662233,15.8119058 14.5652791,17.572881 11.8604651,17.572881 C9.15565117,17.572881 6.85472791,15.8119058 6,13.3580049 L6,13.3580049 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

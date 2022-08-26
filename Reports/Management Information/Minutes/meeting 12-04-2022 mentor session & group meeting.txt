@@ -1,0 +1,53 @@
+Group: groupName
+Date: 12/04/2022
+Type: mentor session & group meeting
+
+Participants:
+
+ 	Jiahao Zhang
+ 	Shuhao Hu
+ 	Haochen Shi
+ 	Kexin Tian
+ 	Dongfei Fan
+
+Start Time:
+
+	5:00PM (Sydney time)
+
+End Time:
+
+	5:43PM (Sydney time)
+
+Content:
+
+	In mentor session, the mentor talked about how will the D4 demo run and gave us some advices:
+
+	Business value: how do these features provide value, why each feature useful
+	Technique point of view: why do we use these tools (such as http, css)
+	Conduct a demo practice before actual demo run.
+
+	In the demo, we need to talk corresponding buniess value when each feature demoing (about 1 min for buniess value)
+	Also we need to fix the app with the feedback from D3 demo.
+
+	Additionally, about the report, we need to write at least 10 pages and reach as many points as possible.
+
+
+
+	In the group discussion, we planned to finish the app first and make it look nice, and then work on the final report.
+
+	Dongfei and Haochen will continue to finish the feature and then work on report.
+
+	Here is the work arrangement for final repot:
+
+	Use Cases, Requirements: Kexin
+	Project Management: Dongfei
+	Design: Haochen (update from last report) Jiahao (architecture) Shuhao (api design)
+
+
+
+
+ 
+
+Planed next meeting:
+
+this Friday

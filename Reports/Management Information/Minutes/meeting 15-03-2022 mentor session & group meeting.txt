@@ -1,0 +1,39 @@
+Group: groupName
+Date: 15/03/2022
+Type: mentor session & group meeting
+
+Participants:
+
+	Jiahao Zhang 
+	Shuhao Hu 
+	Haochen Shi 
+	Kexin Tian 
+	Dongfei Fan
+
+Start Time:
+
+	5:00PM (Sydney time)
+
+End Time:
+
+	5:51PM (Sydney time)
+
+Content:
+
+In mentor session, the mentor went through the API endpoints and gave us some feedback 
+such as add 'example' to column of parameters table, change some response details. 
+He gave us some advice on API design, explained the API testing in spec, also went through 
+the code of scraper.
+
+In the group meeting, everyone discuss what they did. Haochen show everyone the scraper 
+code he wrote and show how it work. Shuhao will fix the index scraper. Kexin will fix the 
+Swagger. Jiahao will fix the Swagger ui. Dongfei will continue to write tests.
+
+Everyone will continue to do their work.
+
+ 
+
+Planed next meeting:
+
+17-03-2022
+

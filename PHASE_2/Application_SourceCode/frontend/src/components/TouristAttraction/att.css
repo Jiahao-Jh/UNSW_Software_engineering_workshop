@@ -1,0 +1,122 @@
+.contin {
+  /* border: 2px solid; */
+  padding: 100px;
+  
+}
+
+.input{
+  width: 48%;
+  line-height: 2;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 22px;
+}
+
+.background-filled{
+    color: #fafafa;
+    text-align: center;
+}
+
+.background-blue {
+  background-color: blue;
+}
+
+
+
+.link{
+  color: #fafafa;
+  position: relative;
+  left: -20px;
+}
+
+.inooup_city{
+  color: #fafafa;
+  font-size: 60px;
+  text-align: 'center';
+  line-height: 2;
+  margin-bottom: 40px;
+}
+
+
+.confirm{
+  color: #fafafa;
+  font-size: 28px;
+  text-align: 'center';
+  line-height: 2;
+  margin-bottom: 45px;
+}
+
+.top {
+  padding-top: 25px;
+}
+
+
+.button{
+  
+  font-size: 20px;
+  margin-bottom: 50px;
+  width: 20%; 
+  height: 60px;
+  top: 500px;
+}
+
+.help_button{
+  
+  font-size: 20px;
+  margin-bottom: 50px;
+  width: 20%; 
+  height: 60px;
+  position: absolute;
+  top: 500px;
+}
+
+
+.button_Get{
+  font-size: 20px;
+  margin-bottom: 50px;
+  width: 20%; 
+  height: 60px;
+  position: absolute;
+  left: 51%;
+  top: 500px;
+}
+
+
+.green_button{
+  color: #3dbdb6;
+}
+
+
+.commit_lane{
+
+  margin-top: 50px;
+
+}
+
+.commit_lane_last{
+  color: #fafafa;
+
+}
+
+.table{
+  margin-top: 30px;
+  margin-bottom: 200px;
+}
+
+
+.table_title{
+  font-size: 25px;
+  margin-bottom: 20px;
+  color: #fafafa;
+}
+
+.table_word{
+  font-size: 20px;
+  margin-bottom: 30px;
+  color: #fafafa;
+}
+
+
+

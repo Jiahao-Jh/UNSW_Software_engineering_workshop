@@ -1,0 +1,20 @@
+Group: groupName
+Date: 22/02/2022
+Type: Mentor session
+
+Participants:
+	Jiahao Zhang
+	Shuhao Hu
+	Haochen Shi
+	Kexin Tian
+	Dongfei Fan
+
+Start Time:
+	5:00PM (Sydney time)
+End Time:
+	5:20PM (Sydney time)
+Content:
+	Everyone attended the mentor session, discussed and asked questions about
+	the spec of deliverable 1 with mentor, and understood what should we do in 
+	details for each part.
+

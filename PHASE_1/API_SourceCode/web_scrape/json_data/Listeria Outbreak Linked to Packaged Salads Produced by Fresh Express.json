@@ -1,0 +1,32 @@
+{
+    "team_name": "SENG3011_GroupName",
+    "access_time": "17/03/2022 22:55:13",
+    "url": "https://www.cdc.gov/listeria/outbreaks/packaged-salad-12-21-b/index.html",
+    "date_of_publication": "Announced December 2021",
+    "header": "Listeria Outbreak Linked to Packaged Salads Produced by Fresh Express",
+    "main_text": "What You Should DoPrevent Listeria\n\nFind out if you are at higher risk for getting sick with Listeria\nLearn which foods are more likely to contain Listeria, and take steps to prevent getting sick\nStay up to date on food recalls and outbreaks to avoid getting sick from eating contaminated food\n\nPrepare Leafy Greens Safely\nVegetables, including leafy greens, are an important part of a healthy and balanced diet. However, they can sometimes be contaminated with harmful germs.\nThe safest produce is cooked; the next safest is washed. However, no washing method can remove all germs.\nWhen eating raw leafy greens:\n\nWash your hands, utensils, and surfaces before and after preparing leafy greens.\nClean leafy greens before eating or cutting them.\n\nDiscard outer leaves on whole heads of lettuce and any torn or bruised leaves.\nRinse under running water and use your hands to gently rub the surface of the leaves.\nDry with a clean cloth or paper towel.\nIf the label on a leafy greens package says \u201cready to eat,\u201d \u201ctriple washed,\u201d or \u201cno washing necessary,\u201d you don\u2019t need to wash the greens.\n\n\nSeparate leafy greens from raw meat, poultry, and seafood.\nRefrigerate leafy greens within 2 hours. Refrigerate within 1 hour if they have been exposed to temperatures above 90\u00b0F (such as a hot car or picnic).\n\n",
+    "reports": [
+        {
+            "event_date": "December 2021",
+            "locations": [
+                {
+                    "country": "Have not been implantment",
+                    "location": "did not find any"
+                }
+            ],
+            "diseases": [
+                {
+                    "name": "Listeria (Listeriosis)"
+                }
+            ],
+            "syndromes": [
+                {
+                    "name": "did not find any"
+                }
+            ],
+            "cases": 10,
+            "deaths": 1,
+            "hospitalizations": 10
+        }
+    ]
+}

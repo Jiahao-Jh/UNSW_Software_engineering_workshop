@@ -1,0 +1,39 @@
+Group: groupNameDate: 12/03/2022
+Type: group meeting
+
+Participants:
+
+ Jiahao Zhang
+ Shuhao Hu
+ Haochen Shi
+ Kexin Tian
+ Dongfei Fan
+
+Start Time:
+
+   4:42PM (Sydney time)
+
+End Time:
+
+   5:46PM (Sydney time)
+
+Content:
+
+   In the group meeting, everyone report what they did for their work and have the conversation 
+   about the next step of work before the mentor session next week. 
+
+   Haochen and Shuhao already have the rough work done and need more time to improve.
+
+   Jiahao make a more clear design draft,
+
+   and he also had the idea of connecting swagger to AWS gateway api based on the github.
+
+   Kexin has a clear idea for how to do endpoint and try to finish it as quick as possible.
+
+   Dongfei and Jiahao are ready to start on the test script based on the parameters disscussed in meeting.
+
+   Additionally, Jiahao is trying to add bonus dataset which is from appendix in project spec.
+
+Planed next meeting:
+
+   15/03/2022

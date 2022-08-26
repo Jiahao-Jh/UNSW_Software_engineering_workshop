@@ -1,0 +1,31 @@
+Group: groupName
+Date: 4/04/2022
+Type: group meeting
+
+Participants:
+
+ Jiahao Zhang
+ Shuhao Hu
+ Haochen Shi
+ Kexin Tian
+ Dongfei Fan
+
+Start Time:
+
+	4:20PM (Sydney time)
+
+End Time:
+
+	6:22PM (Sydney time)
+
+Content:
+
+Everyone talked about the content they did before and discussed how is the presentation going to conduct. 
+
+Then decide Dongfei Fan is going to present the ppt, and Jiahao Zhang is going to do the demo.
+
+ 
+
+Planed next meeting:
+
+not decide yet

@@ -1,0 +1,31 @@
+Group: groupName
+Date: 16/04/2022
+Type: group meeting
+
+Participants:
+
+
+	Shuhao Hu
+	Haochen Shi
+	Dongfei Fan
+
+ 
+
+Start Time:
+
+	3:34PM (Sydney time)
+
+End Time:
+
+	3:44PM (Sydney time)
+
+Content:
+
+	Haochen shows the work he did and decided to make the style more beautiful, 
+	the other pages are finished now and we planned to have demo practice before the actual presentation.
+
+ 
+
+Planed next meeting:
+
+	This Sunday or next Monday

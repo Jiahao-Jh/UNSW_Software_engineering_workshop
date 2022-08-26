@@ -1,0 +1,32 @@
+{
+    "team_name": "SENG3011_GroupName",
+    "access_time": "17/03/2022 22:55:13",
+    "url": "https://www.cdc.gov/tobacco/basic_information/e-cigarettes/severe-lung-disease.html",
+    "date_of_publication": "Announced August 2019",
+    "header": "Outbreak of Lung Injury Associated with the Use of E-Cigarette, or Vaping, Products",
+    "main_text": "CDC, the U.S. Food and Drug Administration (FDA), state and local health departments, and other clinical and public health partners are continuing to monitor e-cigarette, or vaping, product use-associated lung injury (EVALI).\nOverview Emergency department (ED) visits related to e-cigarette, or vaping, products continue to decline, after sharply increasing in August 2019 and peaking in September. National and state data from patient reports and product sample testing show tetrahydrocannabinol (THC)-containing e-cigarette, or vaping, products, particularly from informal sources like friends, family, or in-person or online dealers, are linked to most EVALI cases and play a major role in the outbreak. Vitamin E acetate is strongly linked to the EVALI outbreak. Vitamin E acetate has been found in product samples tested by FDA and state laboratories and in patient lung fluid samples tested by CDC from geographically diverse states. Vitamin E acetate has not been found in the lung fluid of people that do not have EVALI. Evidence is not sufficient to rule out the contribution of other chemicals of concern, including chemicals in either THC or non-THC products, in some of the reported EVALI cases. CDC will continue to update guidance related to EVALI as appropriate.\nAbout the Outbreak: As of February 18, 2020, a total of 2,807 hospitalized EVALI cases or deaths have been reported to CDC from all 50 states, the District of Columbia, and two U.S. territories (Puerto Rico and U.S. Virgin Islands). Sixty-eight deaths have been confirmed in 29 states and the District of Columbia (as of February 18, 2020). Emergency department (ED) visits related to e-cigarette, or vaping, products continue to decline, after sharply increasing in August 2019 and peaking in September. National ED data and active case reporting from state health departments around the country show a sharp rise in symptoms or cases of EVALI in August 2019, a peak in September 2019, and a gradual, but persistent decline since then. Reasons for the decline are likely multifactorial and may be related to the following: Increased public awareness of the risk associated with THC-containing e-cigarette, or vaping, product use as a result of the rapid public health response. Removal of vitamin E acetate from some products. Law enforcement actions related to illicit products. Laboratory data show that vitamin E acetate, an additive in some THC-containing e-cigarette, or vaping, products, is strongly linked to the EVALI outbreak. A recent studyexternal icon analyzed samples from 51 EVALI cases from 16 states and a comparison group of samples from 99 comparison individuals without EVALI for vitamin E acetate, plant oils, medium chain triglyceride (MCT) oil, coconut oil, petroleum distillates, and diluent terpenes. Vitamin E acetate was identified in bronchoalveolar lavage (BAL) fluid samples (fluid samples collected from the lungs) from 48 of the 51 EVALI patients, but not in the BAL fluid from the healthy comparison group. No other toxicants were found in BAL fluid from either group, except for coconut oil and limonene (1 EVALI patient each). In August 2019, CDC started collecting data from states on EVALI cases using a standardized case report form. The data were voluntarily collected and submitted by each state to CDC on a routine basis. Due to the subsequent identification of the primary cause of EVALI, and the considerable decline in EVALI cases and deaths since a peak in September 2019, CDC stopped collecting these data from states as of February 2020. However, CDC continues to monitor EVALI-related trends using emergency department data from the National Syndromic Surveillance Program\u2019s BioSense/ESSENCE platform. These data do not suggest a resurgence of EVALI at this time. CDC encourages clinicians to continue to report possible cases of EVALI to their local or state health department for further investigation. CDC will continue to provide assistance to states, as needed, related to EVALI and will provide any updates at: www.cdc.gov/EVALI.",
+    "reports": [
+        {
+            "event_date": "August 2019",
+            "locations": [
+                {
+                    "country": "Have not been implantment",
+                    "location": "Columbia"
+                }
+            ],
+            "diseases": [
+                {
+                    "name": "Smoking & Tobacco Use"
+                }
+            ],
+            "syndromes": [
+                {
+                    "name": "did not find any"
+                }
+            ],
+            "cases": 807,
+            "deaths": 0,
+            "hospitalizations": 807
+        }
+    ]
+}

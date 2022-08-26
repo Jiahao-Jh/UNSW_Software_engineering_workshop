@@ -1,0 +1,33 @@
+Group: groupName
+Date: 22/02/2022
+Type: Group meeting
+
+Participants:
+	Jiahao Zhang
+	Shuhao Hu
+	Haochen Shi
+	Kexin Tian
+	Dongfei Fan
+
+Start Time:
+	5:24PM (Sydney time)
+End Time:
+	6:33PM (Sydney time)
+Content:
+	After mentor session, everyone then had another meeting in Wechat to discuss
+	Deliverable 1(D1). First, brain storm the content of what should we do in D1 about 
+	how to build API, how to develop API, how to build web, services, database, frontend,
+	backend and use what kind of language to develop them.
+
+	Then, split the work in D1:
+	As Shuhao had already setup the github repository, so we just allocated the work remained.
+	Design Details (1): Jiahao Zhang, Haochen Shi
+	Design Details (2): Shuhao Hu
+	Design Details (3): Kexin Tian
+	Management Information: Dongfei Fan
+
+	Finally, we decide to finish these tasks roughly before our next meeting, so that
+	we can have time to fix them and show something in the mentor session next week.
+
+Planed next meeting:
+	26/02/2022 (Saturday afternoon)

@@ -1,0 +1,38 @@
+Group: groupName
+Date: 17/04/2022
+Type: group meeting
+
+Participants:
+
+ 	Jiahao Zhang
+ 	Shuhao Hu
+ 	Haochen Shi
+	Kexin Tian
+ 	Dongfei Fan
+
+Start Time:
+
+	4:17PM (Sydney time)
+
+End Time:
+
+	6:27PM (Sydney time)
+
+Content:
+
+	Helped Haochen to finish the tourist attractions page and then adjust the whole background color to the same. 
+	Then we discuss the demo structure and decide the business value for each part. 
+
+	In the demo, we have this arrangement:
+
+	Kexin: intro, target user, user requirement, selling points
+
+	Jiahao: the demo of the web, architecture, feature
+
+	Dongfei: the business value of each part
+
+ 
+
+Planed next meeting:
+
+	18/04/2022 afternoon

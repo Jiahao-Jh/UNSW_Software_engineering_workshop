@@ -1,0 +1,55 @@
+Group: groupName
+Date: 29/03/2022
+Type: mentor session & group meeting
+
+Participants:
+	
+	Jiahao Zhang
+	Shuhao Hu
+	Haochen Shi
+	Kexin Tian
+	Dongfei Fan
+
+Start Time:
+
+	5:00PM (Sydney time)
+
+End Time:
+
+	6:04PM (Sydney time)
+
+Content:
+
+	In mentor session, everyone aksed about questions about the topic or apis, 
+	and then the mentor gave us some advice and suggestions on the topics and 
+	api choosing, also he showed the previous work of his team made which is about 
+	the trip planner(flights, hotels), outbreak centre(show in map). 
+
+	After that, the mentor explained something about the project:
+
+		the work would not be marked down by having same idea with other team, but will be compared;
+
+		the backend is optional, but it will require more work on frontend if not have backend;
+
+		dataset is free to use, but need to make it as api first;
+
+		recommande use api from other team: 'Viral'
+
+	In group disscusion, the team discussed the topic and features, and decided 
+	what everyone do in D3:
+
+		Shuhao: the global covid shown in map
+
+		Jiahao: the government response on outbreak
+
+		Dongfei: search articles of outbreak, show lastest outbreak on each country
+
+		Haochen: find another feature, ppt
+
+		Kexin: web design
+
+ 
+
+Planed next meeting:
+
+	this Thursday

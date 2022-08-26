@@ -1,0 +1,41 @@
+{
+    "team_name": "SENG3011_GroupName",
+    "access_time": "17/03/2022 22:55:13",
+    "url": "https://www.cdc.gov/listeria/outbreaks/packaged-salad-mix-12-21/index.html",
+    "date_of_publication": "Announced December 2021",
+    "header": "Listeria Outbreak Linked to Packaged Salads Produced by Dole",
+    "main_text": "Recalled FoodPackaged salads produced by Dole\n\nSold under multiple brands:\n\nAhold\nDole\nHEB\nKroger\nLidl\nLittle Salad Bar\nMarketside\nNaturally Better\nNature\u2019s Promise\nPresident\u2019s Choice\nSimply Nature\n\n\nProducts include mixed greens, garden salads, Caesar kits, and many other types of salads in bags or clamshells\n\u201cBest if used by\u201d dates from 11/30/21 through 01/09/22\nProduct lot code begins with the letter \u201cB,\u201d \u201cN,\u201d \u201cW,\u201d or \u201cY\u201d in the upper right-hand corner of the package\nSee Dole\u2019s recall notices (12/22/2021external icon and 01/07/2022external icon) for the full list of recalled salads\n\nInvestigators found the outbreak strain of Listeria in packaged salads produced by Dole.\nCDC is also investigating another Listeria outbreak linked to packaged salads produced by Fresh Express. See the Fresh Express recall noticeexternal icon. \n\nWhat You Should DoDo not eat any recalled packaged salads.\n\nThrow them away or return them to where you bought them.\nFollow these five steps\u00a0to clean your refrigerator, items, and surfaces that may have touched the recalled products. Listeria can survive in the refrigerator and can easily spread to other foods and surfaces.\n\nCall your healthcare provider right away if you have these symptoms after eating packaged salads.\n\nPregnant people usually experience only fever, fatigue, and muscle aches. However, Listeria can cause pregnancy loss or premature birth. It can also cause serious illness or death in newborns.\nPeople who are not pregnant may experience headache, stiff neck, confusion, loss of balance, and convulsions, in addition to fever and muscle aches.\n\nStay up to date on this outbreak by following CDC on Facebook or Twitter.\n\nShare the latest outbreak information with your friends and family who are at higher risk of getting sick from Listeria (aged 65 and older, are pregnant, or have a weakened immune system).\n\n\nWhat Businesses Should Do\nDo not sell or serve recalled packaged salads.\nFollow FDA\u2019s safe handling and cleaning adviceexternal icon\u00a0if you sold or served recalled packaged salads.\n\n\nSymptoms of Listeria\nListeria can cause severe illness (known as invasive listeriosis) when the bacteria spread beyond the gut to other parts of the body.\n\nAdults 65 years and older, pregnant people, and people with weakened immune systems are at higher risk for severe illness.\n\n\nSymptoms of severe illness usually start 1 to 4 weeks after eating contaminated food. However, symptoms can start as late as 10 weeks after.\n\nPregnant people usually experience only fever, fatigue, and muscle aches. However, Listeria can cause pregnancy loss or premature birth. It can also cause serious illness or death in newborns.\nPeople who are not pregnant may experience headache, stiff neck, confusion, loss of balance, and convulsions, in addition to fever and muscle aches.\n\n\nListeria can also cause common food poisoning symptoms, like diarrhea and fever. People who experience these symptoms usually recover without treatment.\nFor more information about Listeria, see the Listeria Questions and Answers page.\n\n",
+    "reports": [
+        {
+            "event_date": "11/30/21",
+            "locations": [
+                {
+                    "country": "Have not been implantment",
+                    "location": "Dole"
+                }
+            ],
+            "diseases": [
+                {
+                    "name": "Listeria (Listeriosis)"
+                }
+            ],
+            "syndromes": [
+                {
+                    "name": "headache"
+                },
+                {
+                    "name": "fever"
+                },
+                {
+                    "name": "diarrhea"
+                },
+                {
+                    "name": "aches"
+                }
+            ],
+            "cases": 17,
+            "deaths": 2,
+            "hospitalizations": 13
+        }
+    ]
+}

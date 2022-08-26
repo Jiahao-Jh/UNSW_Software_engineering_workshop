@@ -1,0 +1,36 @@
+Group: groupName
+Date: 18/04/2022
+Type: help session and group meeting
+
+Participants:
+
+ 	Jiahao Zhang
+ 	Shuhao Hu
+ 	Haochen Shi
+ 	Kexin Tian
+ 	Dongfei Fan
+
+Start Time:
+
+	12:30PM (Sydney time)
+
+End Time:
+
+	1:19PM (Sydney time)
+
+Content:
+
+	Practice demo and show it to the mentor, then the mentor gave us some feedback about the presentation 
+	and web design.
+
+	Change two button to one button in tourist attraction page, add help button.
+
+	Copy covid map from home page to covid page.
+
+	Need to practice more before demo tomorrow
+
+ 
+
+Planed next meeting:
+
+	not decide yet

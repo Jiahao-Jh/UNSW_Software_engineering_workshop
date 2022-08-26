@@ -1,0 +1,43 @@
+/* todo: delete file if not needed */
+.intro {
+    text-align: center;
+}
+
+@keyframes animated-border {
+    0% {
+        box-shadow: 0 0 0 0 rgba($color: grey, $alpha: 0.4);
+    }
+    
+    100% {
+        box-shadow: 0 0 0 20px rgba($color: grey, $alpha: 0);
+    } 
+}
+
+.world-map {
+    border: 2px solid;
+    padding: 15px;
+    animation: animated-border 1.5s infinite;
+}
+
+.color-scale {
+    float: right;
+    width: 50%;
+}
+
+.label-left {
+    float: left;
+}
+
+.label-right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.covid-title {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
