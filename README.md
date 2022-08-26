@@ -27,6 +27,9 @@ AWS API Gateway is used to handle user requests and pass user parameters to pyth
 
 The website is currently disabled, the following images are kept as demonstration.
 
+## project structure
+![Alt text](/images/4.jpg)
+
 
 ## project functionality
 
