@@ -22,3 +22,17 @@ In our project, we plan to develop a platform and an API towards our benchmark E
 Python is used to scrape disease articles and reports from [CDC Websites](https://www.cdc.gov/outbreaks)
 
 AWS API Gateway is used to handle user requests and pass user parameters to python scraper
+
+# Demo
+
+The website is currently disabled, the following images are kept as demonstration.
+
+
+## project functionality
+
+![Alt text](/images/project_diagram.jpg)
+![Alt text](/images/HomePage.jpg)
+![Alt text](/images/articlePage.jpg)
+![Alt text](/images/1.jpg)
+![Alt text](/images/2.jpg)
+![Alt text](/images/3.jpg)
